@@ -198,7 +198,7 @@ const repeatStatusChange = (e) => {
             <h1 class="text-[22px] font-bold my-[20px] flex gap-1 flex-row items-center ">
               {{ $t('websiteName') }}
               <nuxt-link class="text-[12px] text-red-500"
-                         href="https://github.com/unilei/image-watermark-tool.git" target="_blank">
+                         href="https://github.com/Hickey-Yuze/image-watermark-tool.git" target="_blank">
                 <Icon name="uil:github" color="black" size="24"/>
               </nuxt-link>
             </h1>
@@ -291,7 +291,7 @@ const repeatStatusChange = (e) => {
           {{ $t('websiteName') }}
 
           <nuxt-link class="text-[12px] text-red-500"
-                     href="https://github.com/unilei/image-watermark-tool.git" target="_blank">
+                     href="https://github.com/Hickey-Yuze/image-watermark-tool.git" target="_blank">
             <Icon name="uil:github" color="black" size="24"/>
           </nuxt-link>
         </h1>
