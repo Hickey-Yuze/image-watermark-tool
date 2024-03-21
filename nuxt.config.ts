@@ -3,7 +3,7 @@ export default defineNuxtConfig({
     app: {
         // head
         head: {
-            title: 'Image Watermark Tool',
+            title: '余泽图片加水印工具-V5.2.0',
             meta: [
                 {name: 'viewport', content: 'width=device-width, initial-scale=1'},
                 {
